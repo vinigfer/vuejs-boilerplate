@@ -18,7 +18,7 @@
       <a href="https://medium.com/aziontech" target="_blank">
         <div>
           <h1>Medium</h1>
-          <p>Dive deep into our platform's use cases on Medium and join a community where developers connect, collaborate, and innovate.</p>
+          <p>Dive DEEP into our platform's use cases on Medium and join a community where developers connect, collaborate, and innovate.</p>
         </div>
       </a>
       <a href="https://twitter.com/aziontech" target="_blank">
